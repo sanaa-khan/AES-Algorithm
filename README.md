@@ -10,15 +10,18 @@ the data back into its original form, called plaintext. The AES algorithm can us
 AES is an iterative rather than Feistel cipher. It is based on ‘substitution–permutation network’. It
 comprises of a series of linked operations, some of which involve replacing inputs by specific outputs
 (substitutions) and others involve shuffling bits around (permutations).
-<br><br>
+
+
 Interestingly, AES performs all its computations on bytes rather than bits. Hence, AES treats the 128 bits
 of a plaintext block as 16 bytes. These 16 bytes are arranged in four columns and four rows for processing
 as a matrix.
-<br><br>
+
+
 AES is variable and depends on the length of the key. AES uses 10 rounds for 128-bit keys, 12 rounds
 for 192-bit keys and 14 rounds for 256-bit keys. Each of these rounds uses a different 128-bit round
 key, which is calculated from the original AES key.
-<br><br>
+
+
 The schematic of AES structure is given in this [illustration](https://imgur.com/a/8JfiXjL). 
 
 ## Encryption Process
