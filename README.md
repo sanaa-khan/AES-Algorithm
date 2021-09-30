@@ -73,3 +73,6 @@ is the [pseudo-code](https://imgur.com/a/yOYNcg6) for the key expansion.
 - https://www.comparitech.com/blog/information-security/what-is-aes-encryption/
 - https://www.commonlounge.com/discussion/e32fdd267aaa4240a4464723bc74d0a5
 - https://cboard.cprogramming.com/c-programming/87805-%5btutorial%5d-implementing-advanced-encryption-standard.html
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
